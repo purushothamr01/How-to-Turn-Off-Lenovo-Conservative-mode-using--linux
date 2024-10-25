@@ -1,4 +1,5 @@
-# How-to-Turn-Off-Lenovo-Conservative-mode-using--linux
+# How-to-Turn-Off-Lenovo-Conservative-mode-using-linux
+
 Find the path for the conservation mode setting in 
 
 /sys/bus/platform/drivers/ideapad_acpi using ls /sys/bus/platform/drivers/ideapad_acpi.
