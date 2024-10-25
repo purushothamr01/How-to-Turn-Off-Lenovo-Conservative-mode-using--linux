@@ -2,7 +2,11 @@
 
 Find the path for the conservation mode setting in 
 
-/sys/bus/platform/drivers/ideapad_acpi using ls /sys/bus/platform/drivers/ideapad_acpi.
+/sys/bus/platform/drivers/ideapad_acpi
+
+using ls
+
+/sys/bus/platform/drivers/ideapad_acpi.
 
 In my case, the path is
 
